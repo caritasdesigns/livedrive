@@ -1,0 +1,5 @@
+livedrive_product:
+    resource: "@LivedriveProductBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
